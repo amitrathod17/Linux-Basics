@@ -2,6 +2,8 @@
  ## Study Guide
 This study guide is designed to reinforce your understanding of Linux fundamentals, as presented in the provided audio excerpts from "CloudAge Global Services - Corporate Training (1).mp3"
 
+    https://notebooklm.google.com/notebook/4b6aaef1-72db-4b23-af1c-6b52958bb327
+
 ---
 
 ## I. Core Concepts
@@ -160,3 +162,6 @@ Explain the Linux philosophy that "everything is just a file." Provide an exampl
 What is the sudo command used for, and why is it crucial for administrative tasks in Linux? 
 
     The sudo (superuser do) command allows a permitted user to execute a command as the superuser (root) or another user. It is crucial for administrative tasks in Linux because it enables users to perform privileged operations (like installing software or modifying system files) without needing to log in as root directly, thereby enhancing security by limiting root access.
+
+    ---
+
