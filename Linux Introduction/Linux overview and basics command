@@ -12,7 +12,9 @@ This study guide is designed to reinforce your understanding of Linux fundamenta
 
 Definition: Understand what "open source" means in the context of software development and community.
 GNU/Linux Relationship: Explain why the operating system is often referred to as "GNU/Linux," differentiating between the role of GNU applications and the Linux kernel.
-kernel.org: Identify kernel.org as the source for the Linux kernel and understand its significance.
+
+Kernel.org: Identify kernel.org as the source for the Linux kernel and understand its significance.
+
 Distributions (Distros): Explain what Linux distributions are, how they are created by combining GNU applications and the Linux kernel, and their variety.
 
 <b>B. POSIX Compliance</b>
@@ -32,8 +34,9 @@ Purpose: Understand the basic concept of a data centre and its role in hosting s
 <b> D. Linux Shell and Command Line Interface (CLI) </b>
 
 - GUI vs. CLI: Differentiate between Graphical User Interface (GUI) and Command Line Interface (CLI).
+
 - Terminal: Understand the role of the terminal as an interface to the CLI.
-    - Shells:Definition: Define "shell" in the context of Linux.
+    - Shells: Definition: Define "shell" in the context of Linux.
     - Types: Identify various shells mentioned (Bash, C Shell, Dash, K Shell, Sh, Z Shell).
     - Function: Explain how different shells can offer different user experiences and functionalities (e.g., prompt, information display).
     - Preference: Understand why administrators and engineers prefer working with CLI/terminal.
