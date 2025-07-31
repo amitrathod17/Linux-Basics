@@ -21,6 +21,25 @@ All this components falls under Baremetal
 1:37:00 Problem , summit overview, under utilize, over utilize,
 
 1:44:54 Xen Server
+1:49:32 what solution did xen server gave?
+1:54:39 Concept Over Commit
+1:57:29 Benefits
+2:00:54 Moores Law
+2:05:09 Private contract become a Norm beacause of virtulization
+Private cloud and public cloud
+2:11:48 why companies going to public cloud 
+benefits 3 availability zones with spine network
+2:19:41 Service - aaplication 
+Problem when application is downtime.
+2:25:00 Multi Cloud
+2:36:35 fully managed cloud imp
+1. operational
+2. Secrurity
+3. Reliability
+4. Performance & efficiancy
+5. Cost Optimisation
+6. Sustainability
+
 
 
 
