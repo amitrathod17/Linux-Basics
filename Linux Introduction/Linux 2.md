@@ -197,5 +197,3 @@ Here's a well-organized, formatted version of your notes, structured for easier 
 * `~` = User's home directory
 
 ---
-
-Let me know if you'd like a **printable PDF**, **quiz version**, or **flashcards** for this content.
