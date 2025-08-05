@@ -111,3 +111,12 @@ This lists users who can run commands as root using sudo.
 - whoami	Check if you're currently root
 - grep ':0:' /etc/passwd	Find the actual root user (UID 0)
 - getent group sudo	See who can use sudo (not the same as being root)
+
+
+# Note
+
+        sudo -i
+
+        cat /etc/ssh/sshd_config | grep -i permitrootlogin
+
+To check wheter you can login as a root user
