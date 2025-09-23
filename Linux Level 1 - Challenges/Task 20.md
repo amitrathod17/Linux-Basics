@@ -53,3 +53,8 @@ By using vi editor diable the enforcing property.
 Verfity agian
 
     cat /etc/selinux/config
+
+
+     This journey helped me build a strong foundation in Linux – from essential commands and file systems to permissions and process management.
+
+    Next step: diving deeper into system administration and DevOps tools!

@@ -24,20 +24,14 @@ Your task is to disable direct SSH root login on all app servers within the Stra
 
         ✅ Step-by-Step: Disable SSH Login for Root
         🖥️ Step 1: Open the SSH configuration file
-        bash
-        Copy
-        Edit
+
         sudo nano /etc/ssh/sshd_config
         🔍 Step 2: Find this line
-        bash
-        Copy
-        Edit
+
         #PermitRootLogin yes
         🔁 Change it to:
 
-        bash
-        Copy
-        Edit
+
         PermitRootLogin no
         💡 Note: If the line is commented (# at the start), remove the # to enable the setting.
 
